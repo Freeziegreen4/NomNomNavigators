@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NomNomNavis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28b05fdaf9a0390151ffe74a3dc99b243bfa0fe9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfe0a3b420b860f3ba9043f5008dd5091ddea773")]
 [assembly: System.Reflection.AssemblyProductAttribute("NomNomNavis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NomNomNavis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
